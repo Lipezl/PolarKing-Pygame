@@ -7,6 +7,6 @@ A remake game of Donkey Kong, with other characters. the code was written in pyt
 ### Game
 Run `PolarKing.py` to start the game.  
 
-#Instructions  
+# Instructions  
 * Use Up, Right, Down and Left keys to move around and climb ladders.
 * Use Space to jump.
